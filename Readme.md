@@ -23,8 +23,8 @@ Hi Everyone, Welcome to the Java Cource. This repository contains informations, 
 
 | الأسبوع| اليوم | الدرس |التمرين |
 |:-----:|:---:|:------:|:------:|
-| الأسبوع 1| 1   |[أنواع البيانات والمتغيرات](https://github.com/Tuwaiq-Academy-Training/Java-Web-Development-Introduction)|التمرين الأول |
-| الأسبوع 1| 2   |[التعامل مع النصوص والمدخلات والمعاملات الحسابية](https://github.com/Tuwaiq-Academy-Training/Java-Basics)|التمرين الثاني|(https://github.com/Tuwaiq-Academy-Training/Java-Homework-1)|
+| الأسبوع 1| 1   |[أنواع البيانات والمتغيرات](https://github.com/Tuwaiq-Academy-Training/Java-Course-Basics)|التمرين الأول |
+| الأسبوع 1| 2   |[التعامل مع النصوص والمدخلات والمعاملات الحسابية](https://github.com/Tuwaiq-Academy-Training/Java-Course-Strings-Operators-Scanner)|التمرين الثاني|(https://github.com/Tuwaiq-Academy-Training/Java-Homework-1)|
 | الأسبوع 1| 3   |[الجمل الشرطية وجمل التكرار](https://github.com/Tuwaiq-Academy-Training/Java-Arrays-Methods)|التمرين الثالث|(https://github.com/Tuwaiq-Academy-Training/Java-Homework-2)|
 | الأسبوع 1| 4   |[المصفوفات](https://github.com/Tuwaiq-Academy-Training/Java-Exceptions-Programming-Paradigms)| التمرين الرابع](https://github.com/Tuwaiq-Academy-Training/Java-Homework-3)|
 | الأسبوع 1| 5   |[الدوال ](https://github.com/Tuwaiq-Academy-Training/Java-Static-keywords-Access-modifiers-OOP-principles) |---|
