@@ -23,7 +23,7 @@ Hi Everyone, Welcome to the Java Cource. This repository contains informations, 
 
 | الأسبوع| اليوم | الدرس |التمرين |
 |:-----:|:---:|:------:|:------:|
-| الأسبوع 1| 1   |[أنواع البيانات والمتغيرات](https://github.com/Tuwaiq-Academy-Training/Java-Course-Basics)|[التمرين الأول] (https://github.com/Tuwaiq-Academy-Training/Java-Course-Exercise-1) |
+| الأسبوع 1| 1   |[أنواع البيانات والمتغيرات](https://github.com/Tuwaiq-Academy-Training/Java-Course-Basics)|[التمرين الأول](https://github.com/Tuwaiq-Academy-Training/Java-Course-Exercise-1) |
 | الأسبوع 1| 2   |[التعامل مع النصوص والمدخلات والمعاملات الحسابية](https://github.com/Tuwaiq-Academy-Training/Java-Course-Strings-Operators-Scanner)|[التمرين الثاني] (https://github.com/Tuwaiq-Academy-Training/Java-Course-Exercise-2)|
 | الأسبوع 1| 3   |[الجمل الشرطية وجمل التكرار](https://github.com/Tuwaiq-Academy-Training/Java-Course-Conditions-Loops)|[التمرين الثالث](https://github.com/Tuwaiq-Academy-Training/Java-Course-Exercise-3)|
 | الأسبوع 1| 4   |[المصفوفات](https://github.com/Tuwaiq-Academy-Training/Java-Course-Arrays)| [التمرين الرابع](https://github.com/Tuwaiq-Academy-Training/Java-Course-Exercise-4)|
