@@ -4,7 +4,7 @@ Hi Everyone, Welcome to the Java Cource. This repository contains informations, 
 ## Schedule
 |  | Days | Time |
 | --- | ------------- | ------------- |
-| Class | Sun - Thurs  | 9am - 5pm  |
+| Class | Sun - Thurs  | 3pm - 7pm  |
 
 
 ## What We Expect From You
