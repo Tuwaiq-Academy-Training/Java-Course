@@ -31,5 +31,5 @@ Hi Everyone, Welcome to the Java Course. This repository contains informations, 
 | الأسبوع 2| 1   |[أنواع الأخطاء ومعالجتها والاستثناءات](https://github.com/Tuwaiq-Academy-Training/Java-Course-Errors-Handling-Exceptions)|[التمرين السادس](https://github.com/Tuwaiq-Academy-Training/Java-Course-Exercise-6)|
 | الأسبوع 2| 2   |[نماذج البرمجة والبرمجة الشيئية](https://github.com/Tuwaiq-Academy-Training/Java-Course-Paradigms-OOP)|[التمرين السابع](https://github.com/Tuwaiq-Academy-Training/Java-Course-Exercise-7)|
 | الأسبوع 2| 3   |[مبادئ البرمجة الكائنية والوراثة ](https://github.com/Tuwaiq-Academy-Training/Java-Course-OOP-Principles-Inheritance)|[التمرين الثامن](https://github.com/Tuwaiq-Academy-Training/Java-Course-Exercise-8)|
-| الأسبوع 2| 4   |[  Encapsulation التغليف  ](https://github.com/Tuwaiq-Academy-Training/Java-Course-Encapsulation)|[التمرين التاسع](https://github.com/Tuwaiq-Academy-Training/Java-Course-Exercise-9)|
-| الأسبوع 2| 5   |[تعدد الأشكال والتجريد](https://github.com/Tuwaiq-Academy-Training/Java-Course-Polymorphism-Abstraction)|[التمرين العاشر](https://github.com/Tuwaiq-Academy-Training/Java-Course-Exercise-10)|
+| الأسبوع 2| 4   |[التجريد   ](https://github.com/Tuwaiq-Academy-Training/Java-Course-Encapsulation)|[التمرين التاسع](https://github.com/Tuwaiq-Academy-Training/Java-Course-Exercise-9)|
+| الأسبوع 2| 5   |[تعدد الأشكال والتغليف ](https://github.com/Tuwaiq-Academy-Training/Java-Course-Polymorphism-Abstraction)|[التمرين العاشر](https://github.com/Tuwaiq-Academy-Training/Java-Course-Exercise-10)|
